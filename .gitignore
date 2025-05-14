@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Logs and session data
+*.log
+*.time
+*.jsonl
+rt_logs/
+.rt_command_logger/
+
+# Temporary files
+rtlog_*/
+*.swp
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+
+# VECTR output
+vectr_events.json

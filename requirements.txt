@@ -1,0 +1,2 @@
+# No Python dependencies required
+# Optional system tools: jq, bc (install via Homebrew)
